@@ -1,12 +1,15 @@
 ### Hi there 👋
-🔭 I’m currently working as application security engineer
+🔭 Application security engineer/penetration tester at Prove
 <br>
-🌱 I’m currently learning all the things about security, software development best practice, secure architecture design
+🌱 Talk about security, software development best practice, secure architecture design, AWS
+<br>
+![book](https://user-images.githubusercontent.com/11141804/135923275-e19311e2-9351-498a-8bc0-52e5d33d8aff.png) TechStack: Python, SQL/NoSQL database, Java, Javascript, React, TypeScript, 
 <br>
 📫 How to reach me: nnbaokhang@gmail.com
 <br>
 ⚡ Fun fact: I think my husky is human
 <br>
+
 <!--
 **nnbaokhang/nnbaokhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
