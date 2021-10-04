@@ -1,8 +1,12 @@
 ### Hi there 👋
 🔭 I’m currently working as application security engineer
-🌱 I’m currently learning all the things about security, software development best practice, secure architecture design.
+<br>
+🌱 I’m currently learning all the things about security, software development best practice, secure architecture design
+<br>
 📫 How to reach me: nnbaokhang@gmail.com
+<br>
 ⚡ Fun fact: I think my husky is human
+<br>
 <!--
 **nnbaokhang/nnbaokhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
