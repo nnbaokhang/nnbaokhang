@@ -3,7 +3,7 @@
 <br>
 🌱 Talk about security, software development best practice, secure architecture design, AWS
 <br>
-![book](https://user-images.githubusercontent.com/11141804/135923275-e19311e2-9351-498a-8bc0-52e5d33d8aff.png) TechStack: Python, SQL/NoSQL database, Java, Javascript, React, TypeScript, 
+ ![book](https://user-images.githubusercontent.com/11141804/135923275-e19311e2-9351-498a-8bc0-52e5d33d8aff.png) TechStack: Python, SQL/NoSQL database, Java, Javascript, React, TypeScript, 
 <br>
 📫 How to reach me: nnbaokhang@gmail.com
 <br>
