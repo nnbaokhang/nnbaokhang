@@ -1,5 +1,5 @@
 ### Hello World 👋
-🔭 Application security engineer/penetration tester at Prove
+🔭 Application security engineer/penetration tester
 <br>
 🌱 Talk about security, software development best practice, secure architecture design, AWS
 <br>
