@@ -7,7 +7,7 @@
 <br>
 📫 How to reach me: nnbaokhang@gmail.com
 <br>
-⚡ Fun fact: I think my husky is human
+⚡ Fun fact: My husky is human
 <br>
 
 <!--
