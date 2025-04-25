@@ -1,27 +1,13 @@
-### Hello World 👋
-🔭 Application security engineer/penetration tester
+Hello World 👋
+🔐 Tech founder & Application Security Engineer 
 <br>
-🌱 Talk about security, software development best practice, secure architecture design, AWS
+🌱 I talk about security, startup life, software development best practices, secure architecture, and AWS
 <br>
- ![book](https://user-images.githubusercontent.com/11141804/135923275-e19311e2-9351-498a-8bc0-52e5d33d8aff.png) TechStack: Nodejs, Python, SQL/NoSQL database, Java, Javascript, React, TypeScript, C++
+💡 Building secure-by-default systems for modern apps
 <br>
-📫 How to reach me: nnbaokhang@gmail.com
+📚 TechStack: Node.js, Python, Java, JavaScript, TypeScript, React, SQL/NoSQL, C++
 <br>
-⚡ Fun fact: My husky is human
+📫 Reach me: khang.nguyen@knailab.com
 <br>
-
-<!--
-**nnbaokhang/nnbaokhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+⚡ Fun fact: My husky thinks he's the co-founder
+<br>
