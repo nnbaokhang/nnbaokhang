@@ -1,5 +1,5 @@
 Hello World 👋
-🔐 Tech founder & Application Security Engineer 
+🔐 Tech founder
 <br>
 🌱 I talk about security, startup life, software development best practices, secure architecture, and AWS
 <br>
